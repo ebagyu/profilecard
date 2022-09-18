@@ -1,4 +1,28 @@
-# 
+# Frontend Mentor - Profile card component solution
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/ebagyu/pen/RwyVoLm](https://codepen.io/ebagyu/pen/RwyVoLm).
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Author](#author)
+
+
+## Overview
+
+### Screenshot
+
+![](https://i.imgur.com/LLrGvqC.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [https://ebagyu.github.io/profilecard/](https://ebagyu.github.io/profilecard/)
+
+## Author
+
+- Frontend Mentor - [@ebagyu](https://www.frontendmentor.io/profile/ebagyu)
+- Github - [@Ebagyu](github.com/ebagyu)
 
