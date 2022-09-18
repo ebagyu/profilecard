@@ -18,7 +18,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-html-css-2Z-SoeJW9Q](https://www.frontendmentor.io/solutions/profile-card-html-css-2Z-SoeJW9Q
 - Live Site URL: [https://ebagyu.github.io/profilecard/](https://ebagyu.github.io/profilecard/)
 
 ## Author
