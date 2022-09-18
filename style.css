@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+}
+
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: hsl(185, 75%, 39%);
+  background-image: url(https://alcs-profile-card.netlify.app/images/bg-pattern-top.svg),
+    url(https://alcs-profile-card.netlify.app/images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.box {
+  width: 350px;
+  height: 380px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px hsl(227, 10%, 46%);
+  background-color: white;
+}
+
+.header {
+  width: 100%;
+  display: block;
+}
+
+
+.card-img {
+  border-radius: 50%;
+  border: 5px solid white;
+  margin-top: -48px;
+  background-color: white;
+}
+
+.name {
+  margin-top: 10px;
+  font-size: 18px;
+  height: 700;
+  color: hsl(229, 23%, 23%);
+}
+
+.name span {
+  font-size: 18px;
+  margin: 3px;
+  color: hsl(0, 0%, 59%);
+  font-weight: 400;
+}
+
+.body-text {
+  color: hsl(0, 0%, 59%);
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 50px;
+}
+
+.stats {
+  border-top: 1px solid lightgray;
+  display: flex;
+  font-size: 18px;
+  margin: -25px;
+  justify-content: space-evenly;
+}
+
+.social {
+  text-align: center;
+  margin: -5px;
+}
+
+.social h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+}
+
+.social p {
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: -5px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  color: hsl(0, 0%, 59%);
+}
