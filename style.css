@@ -79,7 +79,7 @@ body {
   margin: -5px;
 }
 
-.social h3 {
+.social h2,h3,h4 {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   font-size: 18px;
